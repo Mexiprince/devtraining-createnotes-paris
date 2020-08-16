@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_assignment">
+    <dl_u_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assigned_to/>
+        <assignment_group display_value="Hardware" name="Hardware">753f673a4f46b380ecf5b5e18110c730</assignment_group>
+        <category>hardware</category>
+        <cmdb_ci/>
+        <location/>
+        <order>100</order>
+        <subcategory/>
+        <sys_class_name>dl_u_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-15 23:48:29</sys_created_on>
+        <sys_id>89892d93db2a141090dbab7dca96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>dl_u_assignment_89892d93db2a141090dbab7dca96190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-15 23:48:29</sys_updated_on>
+    </dl_u_assignment>
+</record_update>
